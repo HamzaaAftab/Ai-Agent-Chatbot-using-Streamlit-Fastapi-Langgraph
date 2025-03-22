@@ -1,0 +1,10 @@
+Following technologies are used to develop this Personal Agentic AI Chatbot- FastAPI
+
+-> LangGraph ReAct Agents
+-> FastAPI for API Calls
+-> Groq & OpenAI for LLM
+-> Streamlit for UI (Frontend)
+-> Langchain for Tools
+-> Uvicorn for hosting the app
+-> Python
+-> VS Code
